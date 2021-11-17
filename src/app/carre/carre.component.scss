@@ -1,0 +1,30 @@
+.class3{
+    border:1px solid black ;
+    height: 400px;
+    width: 400px;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.red{
+    width:50%;
+    height:50%;
+    background-color: red;
+}
+
+.blue{
+    width:50%;
+    height:50%;
+    background-color:blue;
+}
+.green{
+    width:50%;
+    height:50%;
+    background-color:green;
+}
+.yellow {
+    width:50%;
+    height:50%;
+    background-color:yellow;
+}
