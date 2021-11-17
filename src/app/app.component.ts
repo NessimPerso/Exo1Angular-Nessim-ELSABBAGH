@@ -7,9 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ELSABBAGH-Nessim-exo1';
-  public Bcolor : string ='';
+  public color : string ='';
 
 public getColor(color:string){
-  this.Bcolor = color;
+  this.color = color;
 }
 }
